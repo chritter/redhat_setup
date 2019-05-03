@@ -1,0 +1,71 @@
+ls
+top
+ls
+du -h Anaconda3-5.0.1-Linux-x86_64.sh 
+yum install 
+sudo yum install vim
+yum repolist all
+sudo yum install vim-enhanced
+pwd
+subscription-manager register --auto-attach
+yum repolist 
+sudo yum install vim-enhanced
+sudo yum install google-chrome
+ls
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
+ls
+yum -y install redhat-lsb libXScrnSaver
+history -a
+yum install git
+sudo yum install git
+ls
+history -w test2.txt
+ls
+cd ..
+ls
+cd NLP/
+ls
+unzip stanford-corenlp-full-2018-10-05.zip
+ls
+cd ..
+ls
+cd Setup/
+ls
+cd rstudio-1.2.1335/
+ls
+vim INSTALL 
+ls
+cd ..
+ls
+wget https://download1.rstudio.org/desktop/centos7/x86_64/rstudio-1.2.1335-x86_64.rpm
+sud yum install rstudio-1.2.1335-x86_64.rpm 
+sudo yum install rstudio-1.2.1335-x86_64.rpm 
+rstudio 
+sudo yum install  libQt5DBus
+sudo yum install  libdbus
+sudo yum install dbus-libs
+rstudio 
+sudo yum install freetype
+rstudio 
+sudo yum install epel-release
+sudo yum install r
+sudo yum install R
+sudo yum install -y R
+sudo yum install -y epel-release 
+sudo yum update -y 
+yum --enablerepo=epel --enablerepo="rhel-7-server-optional-rpms" install R
+sudo yum install -y R
+subscription-manager repos --enable rhel-7-server-optional-rpms
+sudo yum install -y R
+sudo yum install -y epel-release 
+cat /etc/redhat-release
+yum groupinstall -y ‘Development Tools’
+sudo yum groupinstall -y ‘Development Tools’
+yum install -y epel-release
+sudo yum install -y epel-release
+wget http://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
+rpm -ivh epel-release-latest-7.noarch.rpm
+sudo rpm -ivh epel-release-latest-7.noarch.rpm
+sudo yum install -y epel-release
+sudo yum install -y R
+history -w test6.txt

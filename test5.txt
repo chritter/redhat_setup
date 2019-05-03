@@ -1,0 +1,48 @@
+ls
+top
+ls
+du -h Anaconda3-5.0.1-Linux-x86_64.sh 
+yum install 
+sudo yum install vim
+yum repolist all
+sudo yum install vim-enhanced
+pwd
+subscription-manager register --auto-attach
+yum repolist 
+sudo yum install vim-enhanced
+sudo yum install google-chrome
+ls
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
+ls
+yum -y install redhat-lsb libXScrnSaver
+history -a
+yum install git
+sudo yum install git
+ls
+history -w test2.txt
+cd anaconda3/bin/
+source activate py36_test
+pip install -r ../../Setup/freeze.txt 
+vim ../../Setup/freeze.txt 
+pip install -r ../../Setup/freeze.txt 
+vim ../../Setup/freeze.txt 
+pip install -r ../../Setup/freeze.txt 
+vim ../../Setup/freeze.txt 
+pip install -r ../../Setup/freeze.txt 
+pip install Cython
+pip install -r ../../Setup/freeze.txt 
+pip install ItsDangerous
+pip install -r ../../Setup/freeze.txt 
+vim ../../Setup/freeze.txt 
+pip install -r ../../Setup/freeze.txt 
+pip install nb-anacondacloud
+vim ../../Setup/freeze.txt 
+pip install -r ../../Setup/freeze.txt 
+vim ../../Setup/freeze.txt 
+pip install -r ../../Setup/freeze.txt 
+vim ../../Setup/freeze.txt 
+pip install -r ../../Setup/freeze.txt 
+vim ../../Setup/freeze.txt 
+vim ../../Setup/freeze2.txt
+pip install -r ../../Setup/freeze2.txt 
+history -w test5.txt

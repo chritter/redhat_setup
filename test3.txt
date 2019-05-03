@@ -1,0 +1,37 @@
+ls
+top
+ls
+du -h Anaconda3-5.0.1-Linux-x86_64.sh 
+yum install 
+sudo yum install vim
+yum repolist all
+sudo yum install vim-enhanced
+pwd
+subscription-manager register --auto-attach
+yum repolist 
+sudo yum install vim-enhanced
+sudo yum install google-chrome
+ls
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
+ls
+yum -y install redhat-lsb libXScrnSaver
+history -a
+ls
+history -a test.txt
+ls
+vim test.txt 
+ls
+cat test.txt 
+pwd
+cat test.txt 
+history -w test.txt 
+vim test.txt 
+wget https://download1.rstudio.org/desktop/centos7/x86_64/rstudio-1.2.1335-x86_64-fedora.tar.gz
+ls
+tar -xvzf rstudio-1.2.1335-x86_64-fedora.tar.gz 
+ls
+cd rstudio-1.2.1335/
+ls
+vim INSTALL 
+cd ..
+history -w test3.txt 
